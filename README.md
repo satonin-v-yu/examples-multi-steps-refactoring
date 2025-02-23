@@ -34,7 +34,7 @@ Here:
 * 01:07:08 - Выводы
 
 References:
-* Part 1: [Тагир Валеев — Атомарный рефакторинг в IntelliJ IDEA: прогибаем IDE под себя](https://github.com/satonin-v-yu/examples-atomic-refactoring)
+* Part 1: 'Тагир Валеев — Атомарный рефакторинг в IntelliJ IDEA: прогибаем IDE под себя' [GitHub](https://github.com/satonin-v-yu/examples-atomic-refactoring), [GitFlic](https://gitflic.ru/project/satonin-v-yu/examples-atomic-refactoring), [GitVerse](https://gitverse.ru/satonin-v-yu/examples-atomic-refactoring)
 * [Catalog from book Refactoring Martin Fowler](https://refactoring.com/catalog/)
 
 Check video:
